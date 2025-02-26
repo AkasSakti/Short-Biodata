@@ -10,4 +10,4 @@
    5. plotly
    6. streamlit
  * Instalasi
-   pip install streamlit pandas seaborn matplotlib plotly numpy
+   1. pip install streamlit pandas seaborn matplotlib plotly numpy
